@@ -1,0 +1,6 @@
+name: XenophobiaUHV
+version: 1.0
+author: jnath
+description: The LeonTG77's plugin modify for the Jnath's UHCApi
+main: fr.jnath.xenophobia.Main
+depend: [UHCAPI]
