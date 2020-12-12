@@ -15,6 +15,8 @@ ___
 
 [**LibsDisguises**](https://www.spigotmc.org/resources/libs-disguises.81/download?version=69816)
 
+**UHC Api** plugin in developement.
+
 
 ___
 
